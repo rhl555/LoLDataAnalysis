@@ -1,4 +1,4 @@
-# LoL Binary Classification Model Data Analysis Project 
+# League of Legends Binary Classification Model Data Analysis Project 
 
 Purpose: To create a binary classification model with machine learning models. 
 
